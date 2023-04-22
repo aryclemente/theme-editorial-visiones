@@ -108,7 +108,9 @@ function skt_fse_register_block_patterns_ev() {
 		'skt-fse-services',
 		'skt-fse-section6',
 		'skt-fse-section11',
-		'skt-fse-footer'
+		'skt-fse-footer',
+		'skt-fse-ideas'
+
 	);
 	/**
 	 * Filters the theme block patterns.
