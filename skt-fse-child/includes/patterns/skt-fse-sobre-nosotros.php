@@ -10,8 +10,8 @@ return array(
     <section class="wp-block-group skt-fse-sec skt-fse-section3 has-background-background-color has-background" style="padding-top:20px;padding-bottom:20px"><!-- wp:columns -->
     <div class="wp-block-columns"><!-- wp:column {"width":"55%","className":"skt-fse-section3-left","layout":{"type":"default"}} -->
     <div class="wp-block-column skt-fse-section3-left" style="flex-basis:55%"><!-- wp:group {"style":{"border":{"radius":"0px"},"spacing":{"padding":{"top":"var:preset|spacing|60","right":"var:preset|spacing|20","bottom":"var:preset|spacing|60","left":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group" style="border-radius:0px;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--20)"><!-- wp:image {"align":"center","id":350,"sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":"22px"}},"className":"is-style-default"} -->
-    <figure class="wp-block-image aligncenter size-large has-custom-border is-style-default"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/revista-ideas-1-1024x818.png" alt="" class="wp-image-350" style="border-radius:22px"/></figure>
+    <div class="wp-block-group" style="border-radius:0px;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--20)"><!-- wp:image {"id":58,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image size-full"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/Blanco.png" alt="" class="wp-image-58"/></figure>
     <!-- /wp:image --></div>
     <!-- /wp:group --></div>
     <!-- /wp:column -->
@@ -160,8 +160,8 @@ return array(
     <h5 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><strong>La máxima calidad como meta</strong></h5>
     <!-- /wp:heading -->
     
-    <!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","right":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
-    <p class="has-text-align-center" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)">Ofrecer el mejor servicio. Siempre estamos en la búsqueda de mejorar los procesos con la intención de mejorar la eficiencia y eficacia.</p>
+    <!-- wp:paragraph -->
+    <p>Ofrecer el mejor servicio. Siempre estamos en la búsqueda de mejorar los procesos con la intención de optimizar la eficiencia y eficacia.</p>
     <!-- /wp:paragraph --></div>
     <!-- /wp:group --></div>
     <!-- /wp:column --></div>
