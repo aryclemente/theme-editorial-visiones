@@ -10,8 +10,8 @@ return array(
     <section class="wp-block-group skt-fse-sec skt-fse-section3 has-background-background-color has-background" style="padding-top:20px;padding-bottom:20px"><!-- wp:columns -->
     <div class="wp-block-columns"><!-- wp:column {"width":"55%","className":"skt-fse-section3-left","layout":{"type":"default"}} -->
     <div class="wp-block-column skt-fse-section3-left" style="flex-basis:55%"><!-- wp:group {"style":{"border":{"radius":"0px"},"spacing":{"padding":{"top":"var:preset|spacing|60","right":"var:preset|spacing|20","bottom":"var:preset|spacing|60","left":"var:preset|spacing|20"}}},"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group" style="border-radius:0px;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--20)"><!-- wp:image {"id":58,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image size-full"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/Blanco.png" alt="" class="wp-image-58"/></figure>
+    <div class="wp-block-group" style="border-radius:0px;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--20)"><!-- wp:image {"align":"center","id":350,"sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":"22px"}},"className":"is-style-default"} -->
+    <figure class="wp-block-image aligncenter size-large has-custom-border is-style-default"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/revista-ideas-1-1024x818.png" alt="" class="wp-image-350" style="border-radius:22px"/></figure>
     <!-- /wp:image --></div>
     <!-- /wp:group --></div>
     <!-- /wp:column -->
@@ -22,8 +22,16 @@ return array(
     <h2 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:15px;padding-bottom:30px;font-size:40px;font-style:normal;font-weight:700">¿Quiénes somos nosotros?</h2>
     <!-- /wp:heading -->
     
-    <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"400"},"color":{"text":"#505050"},"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|60"},"padding":{"left":"var:preset|spacing|50","right":"var:preset|spacing|30"}}},"fontFamily":"poppins"} -->
-    <p class="has-text-align-center has-text-color has-poppins-font-family" style="color:#505050;margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--50);font-size:18px;font-style:normal;font-weight:400">Los estudios en Ciencias Sociales y Humanidades son un pilar fundamental para el crecimiento y desarrollo de América Latina. En la actualidad existen pocas editoriales dedicadas a este campo que permita que los autores puedan publicar sus investigaciones y producciones académicas.&nbsp;</p>
+    <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"400"},"color":{"text":"#505050"},"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|60"},"padding":{"left":"var:preset|spacing|60","right":"var:preset|spacing|60","bottom":"var:preset|spacing|30","top":"var:preset|spacing|30"}}},"fontFamily":"poppins"} -->
+    <p class="has-text-align-center has-text-color has-poppins-font-family" style="color:#505050;margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--60);padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--60);font-size:18px;font-style:normal;font-weight:400">Los países latinoamericanos necesitan implementar acciones que posibiliten su crecimiento y desarrollo en el campo de la investigación científica.</p>
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"400"},"color":{"text":"#505050"},"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|60"},"padding":{"left":"var:preset|spacing|60","right":"var:preset|spacing|60","bottom":"var:preset|spacing|30","top":"var:preset|spacing|30"}}},"fontFamily":"poppins"} -->
+    <p class="has-text-align-center has-text-color has-poppins-font-family" style="color:#505050;margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--60);padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--60);font-size:18px;font-style:normal;font-weight:400"> </p>
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"400"},"color":{"text":"#505050"},"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|60"},"padding":{"left":"var:preset|spacing|60","right":"var:preset|spacing|60","bottom":"var:preset|spacing|30","top":"var:preset|spacing|30"}}},"fontFamily":"poppins"} -->
+    <p class="has-text-align-center has-text-color has-poppins-font-family" style="color:#505050;margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--60);padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--60);font-size:18px;font-style:normal;font-weight:400">En este sentido, nace <strong>Editorial Visiones</strong> en el año 2022 como una alternativa para que autores de Latinoamérica tengan un lugar donde publicar sus diferentes perspectivas en estas áreas a través de textos académicos e investigaciones científicas, además de convertirse en punto de referencia para lectores de este campo. </p>
     <!-- /wp:paragraph --></div>
     <!-- /wp:group --></div>
     <!-- /wp:column --></div>
@@ -38,10 +46,12 @@ return array(
     <!-- /wp:group -->
     
     <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|30","right":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30"},"blockGap":"0"}},"layout":{"type":"default"}} -->
-    <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"400"},"color":{"text":"#505050"},"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|60"},"padding":{"left":"var:preset|spacing|60","right":"var:preset|spacing|60","bottom":"var:preset|spacing|30","top":"var:preset|spacing|30"}}},"fontFamily":"poppins"} -->
-    <p class="has-text-align-center has-text-color has-poppins-font-family" style="color:#505050;margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--60);padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--60);font-size:18px;font-style:normal;font-weight:400">Los países latinoamericanos necesitan implementar acciones que posibiliten su crecimiento y desarrollo en el campo de la investigación científica. En este sentido, nace <strong>Editorial Visiones</strong> en el año 2022 como una alternativa para que autores de Latinoamérica tengan un lugar donde publicar sus diferentes perspectivas en estas áreas a través de textos académicos e investigaciones científicas, además de convertirse en punto de referencia para lectores de este campo.&nbsp;</p>
+    <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"></div>
+    <!-- /wp:group -->
+    
+    <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"400"},"color":{"text":"#505050"},"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|60"},"padding":{"left":"var:preset|spacing|50","right":"var:preset|spacing|30"}}},"fontFamily":"poppins"} -->
+    <p class="has-text-align-center has-text-color has-poppins-font-family" style="color:#505050;margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--50);font-size:18px;font-style:normal;font-weight:400">Los estudios en Ciencias Sociales y Humanidades son un pilar fundamental para el crecimiento y desarrollo de América Latina. En la actualidad existen pocas editoriales dedicadas a este campo que permita que los autores puedan publicar sus investigaciones y producciones académicas.&nbsp;</p>
     <!-- /wp:paragraph --></div>
-    <!-- /wp:group --></div>
     <!-- /wp:group -->
     
     <!-- wp:columns {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","right":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40"}},"color":{"gradient":"linear-gradient(135deg,rgba(7,146,227,0.14) 0%,rgba(155,81,224,0.54) 100%)"},"border":{"radius":"50px"}}} -->
@@ -51,8 +61,20 @@ return array(
     <h2 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:30px;padding-bottom:0px;font-size:40px;font-style:normal;font-weight:700">Visión</h2>
     <!-- /wp:heading -->
     
+    <!-- wp:paragraph {"align":"center"} -->
+    <p class="has-text-align-center"><em>Posicionar a </em><strong><em>Editorial Visiones </em></strong><em>como una organización conocedora y de experiencia en el campo de las publicaciones académicas en el área de las </em><strong><em>Ciencias Sociales y Humanidades</em></strong><em> en Venezuela y Latinoamérica</em></p>
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:paragraph {"align":"center"} -->
+    <p class="has-text-align-center"><em>Generar escenarios de interacción entre los autores y el Comité Editorial que permitan la edición y publicación de sus producciones académicas y científicas.</em></p>
+    <!-- /wp:paragraph -->
+    
+    <!-- wp:paragraph {"align":"center"} -->
+    <p class="has-text-align-center"><em>Construir espacios de discusión teórica, metodológica y de la praxis de las </em><strong><em>Ciencias Sociales, Humanidades</em></strong><em> y disciplinas afines. </em><em>Comunicar conocimiento producido desde procesos de enseñanza-aprendizaje, investigación, extensión y acción social, acordes con un diálogo de saberes en respuestas a las particularidades de las</em><strong><em> Ciencias Sociales y Humanidades</em></strong><em> en la actualidad.</em></p>
+    <!-- /wp:paragraph -->
+    
     <!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","right":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
-    <p class="has-text-align-center" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)">Ser una institución sólida, con perspectivas amplias en Venezuela y Latinoamérica en organización, promoción y difusión de eventos académicos, edición de libros digitales, formación continua y publicaciones científicas periódicas digitales en el área de ciencias sociales y humanidades. Con la intención de ofrecer un espacio propicio tanto a los autores para la publicación de sus estudios como a los lectores un catálogo amplio en variedad y de calidad que satisfaga las expectativas del público.</p>
+    <p class="has-text-align-center" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)">.</p>
     <!-- /wp:paragraph --></div>
     <!-- /wp:group --></div>
     <!-- /wp:column -->
@@ -65,7 +87,7 @@ return array(
     
     <!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
     <div class="wp-block-group alignwide"><!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"2rem","right":"2rem","left":"2rem","bottom":"5.3rem"}},"typography":{"lineHeight":"1.5"}}} -->
-    <p class="has-text-align-center" style="padding-top:2rem;padding-right:2rem;padding-bottom:5.3rem;padding-left:2rem;line-height:1.5">Satisfacer las necesidades educativas en investigación, difusión y divulgación del quehacer en ciencias sociales y humanidades dentro de la comunidad académica venezolana y latinoamericana requerida para el desarrollo de las actividades de investigación de acuerdo a las demandas actuales en el campo educativo e investigativo de estas áreas.</p>
+    <p class="has-text-align-center" style="padding-top:2rem;padding-right:2rem;padding-bottom:5.3rem;padding-left:2rem;line-height:1.5"><em>Satisfacer las necesidades educativas en investigación, difusión y divulgación del quehacer en </em><strong><em>Ciencias Sociales y Humanidades</em></strong><em> dentro de la comunidad académica venezolana y latinoamericana requerida para el desarrollo de las actividades de investigación de acuerdo a las demandas actuales en el campo educativo e investigativo de estas áreas.</em></p>
     <!-- /wp:paragraph --></div>
     <!-- /wp:group --></div>
     <!-- /wp:group --></div>
@@ -91,19 +113,19 @@ return array(
     
     <!-- wp:list {"style":{"spacing":{"margin":{"top":"var:preset|spacing|50","right":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50"},"padding":{"top":"var:preset|spacing|50","right":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
     <ul style="margin-top:var(--wp--preset--spacing--50);margin-right:var(--wp--preset--spacing--50);margin-bottom:var(--wp--preset--spacing--50);margin-left:var(--wp--preset--spacing--50);padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:list-item -->
-    <li>Posicionar a Editorial Visiones como una organización conocedora y de experiencia en el campo de las publicaciones académicas en el área de las ciencias sociales y humanidades en Venezuela y Latinoamérica</li>
+    <li><em>Posicionar a </em><strong><em>Editorial Visiones </em></strong><em>como una organización conocedora y de experiencia en el campo de las publicaciones académicas en el área de las </em><strong><em>Ciencias Sociales y Humanidades</em></strong><em> en Venezuela y Latinoamérica</em></li>
     <!-- /wp:list-item -->
     
     <!-- wp:list-item -->
-    <li>Generar escenarios de interacción entre los autores y el comité editorial que permitan la edición y publicación de sus producciones académicas y científicas.</li>
+    <li><em>Generar escenarios de interacción entre los autores y el Comité Editorial que permitan la edición y publicación de sus producciones académicas y científicas.</em></li>
     <!-- /wp:list-item -->
     
     <!-- wp:list-item -->
-    <li>Construir espacios de discusión teórica, metodológica y de la praxis de las ciencias sociales, humanidades y disciplinas afines.</li>
+    <li><em>Construir espacios de discusión teórica, metodológica y de la praxis de las </em><strong><em>Ciencias Sociales, Humanidades</em></strong><em> y disciplinas afines.</em></li>
     <!-- /wp:list-item -->
     
     <!-- wp:list-item -->
-    <li>Comunicar conocimiento producido desde procesos de enseñanza-aprendizaje, investigación, extensión y acción social, acordes con un diálogo de saberes en respuestas a las particularidades de las ciencias sociales y humanidades en la actualidad.</li>
+    <li><em>Comunicar conocimiento producido desde procesos de enseñanza-aprendizaje, investigación, extensión y acción social, acordes con un diálogo de saberes en respuestas a las particularidades de las</em><strong><em> Ciencias Sociales y Humanidades</em></strong><em> en la actualidad.</em></li>
     <!-- /wp:list-item --></ul>
     <!-- /wp:list -->
     
@@ -112,8 +134,8 @@ return array(
     <!-- /wp:spacer --></div>
     <!-- /wp:group -->
     
-    <!-- wp:group {"style":{"color":{"background":"#84a7c7"}},"textColor":"background","layout":{"type":"constrained"}} -->
-    <div class="wp-block-group has-background-color has-text-color has-background" style="background-color:#84a7c7"><!-- wp:columns {"style":{"spacing":{"padding":{"bottom":"25px"}}}} -->
+    <!-- wp:group {"style":{"color":{"background":"#235b7d"}},"textColor":"background","layout":{"type":"constrained"}} -->
+    <div class="wp-block-group has-background-color has-text-color has-background" style="background-color:#235b7d"><!-- wp:columns {"style":{"spacing":{"padding":{"bottom":"25px"}}}} -->
     <div class="wp-block-columns" style="padding-bottom:25px"><!-- wp:column {"width":"25%"} -->
     <div class="wp-block-column" style="flex-basis:25%"></div>
     <!-- /wp:column -->
@@ -149,7 +171,7 @@ return array(
     <!-- /wp:heading -->
     
     <!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","right":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
-    <p class="has-text-align-center" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)">Nos preocupamos por ser una institución responsable y eficiente con el cumplimiento de los estándares de calidad que el mundo académico demanda que nos permita además sostenernos adecuadamente en el tiempo.</p>
+    <p class="has-text-align-center" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)">Nos preocupamos por ser una institución responsable y eficiente con el cumplimiento de los estándares de calidad que la academia demanda para  sostenernos adecuadamente en el tiempo.</p>
     <!-- /wp:paragraph --></div>
     <!-- /wp:group --></div>
     <!-- /wp:column -->
@@ -160,8 +182,8 @@ return array(
     <h5 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><strong>La máxima calidad como meta</strong></h5>
     <!-- /wp:heading -->
     
-    <!-- wp:paragraph -->
-    <p>Ofrecer el mejor servicio. Siempre estamos en la búsqueda de mejorar los procesos con la intención de optimizar la eficiencia y eficacia.</p>
+    <!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","right":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
+    <p class="has-text-align-center" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)">Ofrecer el mejor servicio. Siempre estamos en la búsqueda de mejorar los procesos con la intención de optimizar la eficiencia y eficacia..</p>
     <!-- /wp:paragraph --></div>
     <!-- /wp:group --></div>
     <!-- /wp:column --></div>
@@ -187,7 +209,7 @@ return array(
     <!-- /wp:heading -->
     
     <!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","right":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
-    <p class="has-text-align-center" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)">Nuestra editorial se encuentra procura en mantenerse en constante aprendizaje, para poder adaptarnos a los cambios los cambios legislativos, doctrinarios y jurisprudenciales en el día a día.&nbsp;</p>
+    <p class="has-text-align-center" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)">Procuramos mantenernos en constante aprendizaje para adaptarnos a los cambios que la actualidad demanda</p>
     <!-- /wp:paragraph --></div>
     <!-- /wp:group --></div>
     <!-- /wp:column -->
@@ -279,17 +301,9 @@ return array(
     <!-- /wp:group -->
     
     <!-- wp:group {"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group"><!-- wp:image {"align":"center","id":426,"width":30,"height":30,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-426" width="30" height="30"/></figure>
+    <div class="wp-block-group"><!-- wp:image {"align":"center","id":62,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-62" width="50" height="50"/></figure>
     <!-- /wp:image -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><strong>País</strong></p>
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center">Venezuela</p>
-    <!-- /wp:paragraph -->
     
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -328,8 +342,8 @@ return array(
     
     <!-- wp:column {"className":"skt-fse-section4-box"} -->
     <div class="wp-block-column skt-fse-section4-box"><!-- wp:group {"style":{"spacing":{"padding":{"top":"60px","right":"35px","bottom":"70px","left":"35px"}},"border":{"radius":"15px"},"color":{"background":"#eff5fa"}},"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":5,"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"40px","bottom":"5px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
-    <h5 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:40px;padding-bottom:5px;font-size:18px;font-style:normal;font-weight:600;text-transform:capitalize"><em>Directora de Negocios</em></h5>
+    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":5,"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"600","textTransform":"none"},"spacing":{"padding":{"top":"40px","bottom":"5px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
+    <h5 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:40px;padding-bottom:5px;font-size:18px;font-style:normal;font-weight:600;text-transform:none"><em>Directora de Negocios</em></h5>
     <!-- /wp:heading -->
     
     <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
@@ -340,17 +354,9 @@ return array(
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
-    <!-- wp:image {"align":"center","id":426,"width":30,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-426" width="30"/></figure>
+    <!-- wp:image {"align":"center","id":62,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-62" width="50" height="50"/></figure>
     <!-- /wp:image -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><strong>País</strong></p>
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center">Venezuela</p>
-    <!-- /wp:paragraph -->
     
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -398,17 +404,9 @@ return array(
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
-    <!-- wp:image {"align":"center","id":426,"width":30,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-426" width="30"/></figure>
+    <!-- wp:image {"align":"center","id":62,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-62" width="50" height="50"/></figure>
     <!-- /wp:image -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><strong>País</strong></p>
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center">Venezuela</p>
-    <!-- /wp:paragraph -->
     
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -420,25 +418,7 @@ return array(
     
     <!-- wp:paragraph {"align":"center"} -->
     <p class="has-text-align-center"><em><em>Universidad Central de Venezuela</em></em></p>
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:spacer {"height":"30px"} -->
-    <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
-    <!-- /wp:spacer -->
-    
-    <!-- wp:group {"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group"><!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><em><strong>Perfil Académico</strong></em></p>
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:spacer {"height":"15px"} -->
-    <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-    <!-- /wp:spacer -->
-    
-    <!-- wp:image {"align":"center","id":425,"width":35,"height":35,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/ORCID.png" alt="" class="wp-image-425" width="35" height="35"/></figure>
-    <!-- /wp:image --></div>
-    <!-- /wp:group --></div>
+    <!-- /wp:paragraph --></div>
     <!-- /wp:group --></div>
     <!-- /wp:column --></div>
     <!-- /wp:columns --></div>
@@ -468,11 +448,7 @@ return array(
     <div class="wp-block-group"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"30px"}}}} -->
     <div class="wp-block-columns"><!-- wp:column {"className":"skt-fse-section4-box"} -->
     <div class="wp-block-column skt-fse-section4-box"><!-- wp:group {"style":{"spacing":{"padding":{"top":"60px","right":"35px","bottom":"70px","left":"35px"}},"border":{"radius":"15px"},"color":{"background":"#eff5fa"}},"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":5,"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"40px","bottom":"5px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
-    <h5 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:40px;padding-bottom:5px;font-size:18px;font-style:normal;font-weight:600;text-transform:capitalize"><em>Grado académico</em></h5>
-    <!-- /wp:heading -->
-    
-    <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
+    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
     <h3 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:0px;padding-bottom:0px;font-size:24px;font-style:normal;font-weight:600;text-transform:capitalize"><em><em>Dra. Aracelli del Carmen González Sánchez</em></em></h3>
     <!-- /wp:heading -->
     
@@ -480,17 +456,9 @@ return array(
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
-    <!-- wp:image {"align":"center","id":427,"width":30,"height":30,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/peru.png" alt="" class="wp-image-427" width="30" height="30"/></figure>
+    <!-- wp:image {"align":"center","id":86,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/peru.png" alt="" class="wp-image-86" width="50" height="50"/></figure>
     <!-- /wp:image -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><strong>País</strong></p>
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><em>Perú</em></p>
-    <!-- /wp:paragraph -->
     
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -526,11 +494,7 @@ return array(
     
     <!-- wp:column {"className":"skt-fse-section4-box"} -->
     <div class="wp-block-column skt-fse-section4-box"><!-- wp:group {"style":{"spacing":{"padding":{"top":"60px","right":"35px","bottom":"70px","left":"35px"}},"border":{"radius":"15px"},"color":{"background":"#eff5fa"}},"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":5,"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"40px","bottom":"5px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
-    <h5 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:40px;padding-bottom:5px;font-size:18px;font-style:normal;font-weight:600;text-transform:capitalize">Grado académico</h5>
-    <!-- /wp:heading -->
-    
-    <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
+    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
     <h3 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:0px;padding-bottom:0px;font-size:24px;font-style:normal;font-weight:600;text-transform:capitalize">Msc. Laura Gaviria Yepes</h3>
     <!-- /wp:heading -->
     
@@ -538,17 +502,9 @@ return array(
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
-    <!-- wp:image {"align":"center","id":417,"width":30,"height":30,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/colombia.png" alt="" class="wp-image-417" width="30" height="30"/></figure>
+    <!-- wp:image {"align":"center","id":87,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/colombia.png" alt="" class="wp-image-87" width="50" height="50"/></figure>
     <!-- /wp:image -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><strong>País</strong></p>
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><em>Colombia</em></p>
-    <!-- /wp:paragraph -->
     
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -584,11 +540,7 @@ return array(
     
     <!-- wp:column {"className":"skt-fse-section4-box"} -->
     <div class="wp-block-column skt-fse-section4-box"><!-- wp:group {"style":{"spacing":{"padding":{"top":"60px","right":"35px","bottom":"70px","left":"35px"}},"border":{"radius":"15px"},"color":{"background":"#eff5fa"}},"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":5,"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"40px","bottom":"5px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
-    <h5 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:40px;padding-bottom:5px;font-size:18px;font-style:normal;font-weight:600;text-transform:capitalize">Grado académico</h5>
-    <!-- /wp:heading -->
-    
-    <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
+    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
     <h3 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:0px;padding-bottom:0px;font-size:24px;font-style:normal;font-weight:600;text-transform:capitalize"><em><em>Dr. Antonio Fuguet Smith</em></em></h3>
     <!-- /wp:heading -->
     
@@ -596,17 +548,9 @@ return array(
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
-    <!-- wp:image {"align":"center","id":426,"width":30,"height":30,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-426" width="30" height="30"/></figure>
+    <!-- wp:image {"align":"center","id":62,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-62" width="50" height="50"/></figure>
     <!-- /wp:image -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><strong>País</strong></p>
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center">Venezuela</p>
-    <!-- /wp:paragraph -->
     
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -650,11 +594,7 @@ return array(
     <div class="wp-block-group"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"30px"}}}} -->
     <div class="wp-block-columns"><!-- wp:column {"className":"skt-fse-section4-box"} -->
     <div class="wp-block-column skt-fse-section4-box"><!-- wp:group {"style":{"spacing":{"padding":{"top":"60px","right":"35px","bottom":"70px","left":"35px"}},"border":{"radius":"15px"},"color":{"background":"#eff5fa"}},"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":5,"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"40px","bottom":"5px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
-    <h5 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:40px;padding-bottom:5px;font-size:18px;font-style:normal;font-weight:600;text-transform:capitalize"><em>Grado académico</em></h5>
-    <!-- /wp:heading -->
-    
-    <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
+    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
     <h3 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:0px;padding-bottom:0px;font-size:24px;font-style:normal;font-weight:600;text-transform:capitalize"><em><em><em>Dra. Cynthia Patricia Villagómez Oviedo</em></em></em></h3>
     <!-- /wp:heading -->
     
@@ -662,17 +602,9 @@ return array(
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
-    <!-- wp:image {"align":"center","id":429,"width":30,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/mexico.png" alt="" class="wp-image-429" width="30"/></figure>
+    <!-- wp:image {"align":"center","id":88,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/mexico.png" alt="" class="wp-image-88" width="50" height="50"/></figure>
     <!-- /wp:image -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><strong>País</strong></p>
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><em><em>México</em></em></p>
-    <!-- /wp:paragraph -->
     
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -708,11 +640,7 @@ return array(
     
     <!-- wp:column {"className":"skt-fse-section4-box"} -->
     <div class="wp-block-column skt-fse-section4-box"><!-- wp:group {"style":{"spacing":{"padding":{"top":"60px","right":"35px","bottom":"70px","left":"35px"}},"border":{"radius":"15px"},"color":{"background":"#eff5fa"}},"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":5,"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"40px","bottom":"5px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
-    <h5 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:40px;padding-bottom:5px;font-size:18px;font-style:normal;font-weight:600;text-transform:capitalize">Grado académico</h5>
-    <!-- /wp:heading -->
-    
-    <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
+    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
     <h3 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:0px;padding-bottom:0px;font-size:24px;font-style:normal;font-weight:600;text-transform:capitalize"><span data-token-index="0" class="notion-enable-hover" style="font-style:italic">Dr. Gerardo Armando Piscon Olivaru</span></h3>
     <!-- /wp:heading -->
     
@@ -720,17 +648,9 @@ return array(
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
-    <!-- wp:image {"align":"center","id":428,"width":30,"height":30,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/paraguay.png" alt="" class="wp-image-428" width="30" height="30"/></figure>
+    <!-- wp:image {"align":"center","id":89,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/paraguay.png" alt="" class="wp-image-89" width="50" height="50"/></figure>
     <!-- /wp:image -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><strong>País</strong></p>
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><em><em>Paraguay</em></em></p>
-    <!-- /wp:paragraph -->
     
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -790,11 +710,7 @@ return array(
     <div class="wp-block-group"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"30px"}}}} -->
     <div class="wp-block-columns"><!-- wp:column {"className":"skt-fse-section4-box"} -->
     <div class="wp-block-column skt-fse-section4-box"><!-- wp:group {"style":{"spacing":{"padding":{"top":"60px","right":"35px","bottom":"70px","left":"35px"}},"border":{"radius":"15px"},"color":{"background":"#eff5fa"}},"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":5,"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"40px","bottom":"5px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
-    <h5 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:40px;padding-bottom:5px;font-size:18px;font-style:normal;font-weight:600;text-transform:capitalize"><em>Grado académico</em></h5>
-    <!-- /wp:heading -->
-    
-    <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
+    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
     <h3 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:0px;padding-bottom:0px;font-size:24px;font-style:normal;font-weight:600;text-transform:capitalize"><em><em><em>Dra. Miren De Tejada Lagonell</em></em></em></h3>
     <!-- /wp:heading -->
     
@@ -802,17 +718,9 @@ return array(
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
-    <!-- wp:image {"align":"center","id":426,"width":30,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-426" width="30"/></figure>
+    <!-- wp:image {"align":"center","id":62,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-62" width="50" height="50"/></figure>
     <!-- /wp:image -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><strong>País</strong></p>
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><span data-token-index="0" class="notion-enable-hover" style="font-style:italic">Venezuela</span></p>
-    <!-- /wp:paragraph -->
     
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -848,11 +756,7 @@ return array(
     
     <!-- wp:column {"className":"skt-fse-section4-box"} -->
     <div class="wp-block-column skt-fse-section4-box"><!-- wp:group {"style":{"spacing":{"padding":{"top":"60px","right":"35px","bottom":"70px","left":"35px"}},"border":{"radius":"15px"},"color":{"background":"#eff5fa"}},"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":5,"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"40px","bottom":"5px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
-    <h5 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:40px;padding-bottom:5px;font-size:18px;font-style:normal;font-weight:600;text-transform:capitalize">Grado académico</h5>
-    <!-- /wp:heading -->
-    
-    <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
+    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
     <h3 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:0px;padding-bottom:0px;font-size:24px;font-style:normal;font-weight:600;text-transform:capitalize"><em>Dra. Nidia del Carmen Tabarez</em></h3>
     <!-- /wp:heading -->
     
@@ -860,17 +764,9 @@ return array(
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
-    <!-- wp:image {"align":"center","id":426,"width":30,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-426" width="30"/></figure>
+    <!-- wp:image {"align":"center","id":62,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-62" width="50" height="50"/></figure>
     <!-- /wp:image -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><strong>País</strong></p>
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><em><em>Venezuela</em></em></p>
-    <!-- /wp:paragraph -->
     
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -906,11 +802,7 @@ return array(
     
     <!-- wp:column {"className":"skt-fse-section4-box"} -->
     <div class="wp-block-column skt-fse-section4-box"><!-- wp:group {"style":{"spacing":{"padding":{"top":"60px","right":"35px","bottom":"70px","left":"35px"}},"border":{"radius":"15px"},"color":{"background":"#eff5fa"}},"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":5,"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"40px","bottom":"5px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
-    <h5 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:40px;padding-bottom:5px;font-size:18px;font-style:normal;font-weight:600;text-transform:capitalize">Grado académico</h5>
-    <!-- /wp:heading -->
-    
-    <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
+    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
     <h3 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:0px;padding-bottom:0px;font-size:24px;font-style:normal;font-weight:600;text-transform:capitalize">Dra. Rovinar Serrano</h3>
     <!-- /wp:heading -->
     
@@ -918,17 +810,9 @@ return array(
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
-    <!-- wp:image {"align":"center","id":426,"width":30,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-426" width="30"/></figure>
+    <!-- wp:image {"align":"center","id":62,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-62" width="50" height="50"/></figure>
     <!-- /wp:image -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><strong>País</strong></p>
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><span data-token-index="0" class="notion-enable-hover" style="font-style:italic">Venezuela</span></p>
-    <!-- /wp:paragraph -->
     
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -972,11 +856,7 @@ return array(
     <div class="wp-block-group"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"30px"}}}} -->
     <div class="wp-block-columns"><!-- wp:column {"className":"skt-fse-section4-box"} -->
     <div class="wp-block-column skt-fse-section4-box"><!-- wp:group {"style":{"spacing":{"padding":{"top":"60px","right":"35px","bottom":"70px","left":"35px"}},"border":{"radius":"15px"},"color":{"background":"#eff5fa"}},"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":5,"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"40px","bottom":"5px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
-    <h5 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:40px;padding-bottom:5px;font-size:18px;font-style:normal;font-weight:600;text-transform:capitalize"><em>Grado académico</em></h5>
-    <!-- /wp:heading -->
-    
-    <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
+    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
     <h3 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:0px;padding-bottom:0px;font-size:24px;font-style:normal;font-weight:600;text-transform:capitalize">Dra. Élide Hernández</h3>
     <!-- /wp:heading -->
     
@@ -984,17 +864,9 @@ return array(
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
-    <!-- wp:image {"align":"center","id":426,"width":30,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-426" width="30"/></figure>
+    <!-- wp:image {"align":"center","id":62,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-62" width="50" height="50"/></figure>
     <!-- /wp:image -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><strong>País</strong></p>
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><em><em>Venezuela</em></em></p>
-    <!-- /wp:paragraph -->
     
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -1030,11 +902,7 @@ return array(
     
     <!-- wp:column {"className":"skt-fse-section4-box"} -->
     <div class="wp-block-column skt-fse-section4-box"><!-- wp:group {"style":{"spacing":{"padding":{"top":"60px","right":"35px","bottom":"70px","left":"35px"}},"border":{"radius":"15px"},"color":{"background":"#eff5fa"}},"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":5,"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"40px","bottom":"5px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
-    <h5 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:40px;padding-bottom:5px;font-size:18px;font-style:normal;font-weight:600;text-transform:capitalize">Grado académico</h5>
-    <!-- /wp:heading -->
-    
-    <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
+    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
     <h3 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:0px;padding-bottom:0px;font-size:24px;font-style:normal;font-weight:600;text-transform:capitalize">Dr. Ricardo Lopez-León</h3>
     <!-- /wp:heading -->
     
@@ -1042,17 +910,9 @@ return array(
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
-    <!-- wp:image {"align":"center","id":429,"width":30,"height":30,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/mexico.png" alt="" class="wp-image-429" width="30" height="30"/></figure>
+    <!-- wp:image {"align":"center","id":88,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/mexico.png" alt="" class="wp-image-88" width="50" height="50"/></figure>
     <!-- /wp:image -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><strong>País</strong></p>
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><em><em>México</em></em></p>
-    <!-- /wp:paragraph -->
     
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -1088,11 +948,7 @@ return array(
     
     <!-- wp:column {"className":"skt-fse-section4-box"} -->
     <div class="wp-block-column skt-fse-section4-box"><!-- wp:group {"style":{"spacing":{"padding":{"top":"60px","right":"35px","bottom":"70px","left":"35px"}},"border":{"radius":"15px"},"color":{"background":"#eff5fa"}},"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":5,"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"40px","bottom":"5px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
-    <h5 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:40px;padding-bottom:5px;font-size:18px;font-style:normal;font-weight:600;text-transform:capitalize">Grado académico</h5>
-    <!-- /wp:heading -->
-    
-    <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
+    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
     <h3 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:0px;padding-bottom:0px;font-size:24px;font-style:normal;font-weight:600;text-transform:capitalize">Dr. Yolvi Ocaña</h3>
     <!-- /wp:heading -->
     
@@ -1100,17 +956,9 @@ return array(
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
-    <!-- wp:image {"align":"center","id":427,"width":30,"height":30,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/peru.png" alt="" class="wp-image-427" width="30" height="30"/></figure>
+    <!-- wp:image {"align":"center","id":86,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/peru.png" alt="" class="wp-image-86" width="50" height="50"/></figure>
     <!-- /wp:image -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><strong>País</strong></p>
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><span data-token-index="0" class="notion-enable-hover" style="font-style:italic">Perú</span></p>
-    <!-- /wp:paragraph -->
     
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -1137,8 +985,8 @@ return array(
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
-    <!-- wp:image {"align":"center","id":425,"width":35,"height":35,"sizeSlug":"full","linkDestination":"custom"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><a href="https://orcid.org/0000-0002-2566-6875"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/ORCID.png" alt="" class="wp-image-425" width="35" height="35"/></a></figure>
+    <!-- wp:image {"align":"center","id":64,"width":50,"height":50,"sizeSlug":"full","linkDestination":"custom"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/ORCID.png" alt="" class="wp-image-64" width="50" height="50"/></figure>
     <!-- /wp:image --></div>
     <!-- /wp:group --></div>
     <!-- /wp:group --></div>
@@ -1182,17 +1030,9 @@ return array(
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
-    <!-- wp:image {"align":"center","id":427,"width":30,"height":30,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/peru.png" alt="" class="wp-image-427" width="30" height="30"/></figure>
+    <!-- wp:image {"align":"center","id":86,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/peru.png" alt="" class="wp-image-86" width="50" height="50"/></figure>
     <!-- /wp:image -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><strong>País</strong></p>
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center">Venezuela</p>
-    <!-- /wp:paragraph -->
     
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -1201,10 +1041,6 @@ return array(
     <!-- wp:spacer {"height":"30px"} -->
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><em><strong>RRSS</strong></em></p>
-    <!-- /wp:paragraph -->
     
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -1230,17 +1066,9 @@ return array(
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
-    <!-- wp:image {"align":"center","id":426,"width":30,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-426" width="30"/></figure>
+    <!-- wp:image {"align":"center","id":62,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-62" width="50" height="50"/></figure>
     <!-- /wp:image -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><strong>País</strong></p>
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center">Venezuela</p>
-    <!-- /wp:paragraph -->
     
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -1334,8 +1162,8 @@ return array(
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
-    <!-- wp:image {"align":"center","id":426,"width":30,"height":30,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-426" width="30" height="30"/></figure>
+    <!-- wp:image {"align":"center","id":62,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-62" width="50" height="50"/></figure>
     <!-- /wp:image -->
     
     <!-- wp:paragraph {"align":"center"} -->
@@ -1353,10 +1181,6 @@ return array(
     <!-- wp:spacer {"height":"30px"} -->
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><em><strong><em><strong>RRSS</strong></em></strong></em></p>
-    <!-- /wp:paragraph -->
     
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -1382,8 +1206,8 @@ return array(
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
-    <!-- wp:image {"align":"center","id":426,"width":30,"height":30,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-426" width="30" height="30"/></figure>
+    <!-- wp:image {"align":"center","id":62,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-62" width="50" height="50"/></figure>
     <!-- /wp:image -->
     
     <!-- wp:paragraph {"align":"center"} -->
@@ -1411,11 +1235,7 @@ return array(
     <!-- /wp:spacer -->
     
     <!-- wp:group {"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group"><!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><em><strong>RRSS</strong></em></p>
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:spacer {"height":"15px"} -->
+    <div class="wp-block-group"><!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
@@ -1440,8 +1260,8 @@ return array(
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
-    <!-- wp:image {"align":"center","id":426,"width":30,"height":30,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-426" width="30" height="30"/></figure>
+    <!-- wp:image {"align":"center","id":62,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-62" width="50" height="50"/></figure>
     <!-- /wp:image -->
     
     <!-- wp:paragraph {"align":"center"} -->
@@ -1468,10 +1288,6 @@ return array(
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><em><strong>RRSS</strong></em></p>
-    <!-- /wp:paragraph -->
-    
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
@@ -1483,62 +1299,43 @@ return array(
     <!-- /wp:column -->
     
     <!-- wp:column -->
-    <div class="wp-block-column">
-    <!-- wp:group {"style":{"spacing":{"padding":{"top":"60px","right":"35px","bottom":"70px","left":"35px"}},"border":{"radius":"15px"},"color":{"background":"#eff5fa"}},"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px">
-    <!-- wp:heading {"textAlign":"center","level":5,"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"40px","bottom":"5px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
+    <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"60px","right":"35px","bottom":"70px","left":"35px"}},"border":{"radius":"15px"},"color":{"background":"#eff5fa"}},"layout":{"type":"constrained"}} -->
+    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":5,"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"40px","bottom":"5px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
     <h5 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:40px;padding-bottom:5px;font-size:18px;font-style:normal;font-weight:600;text-transform:capitalize">Asistente de Diseño</h5>
     <!-- /wp:heading -->
-        
-        
+    
     <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
     <h3 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:0px;padding-bottom:0px;font-size:24px;font-style:normal;font-weight:600;text-transform:capitalize"><em><em>Br. Whitney Rodríguez</em></em></h3>
     <!-- /wp:heading -->
-        
-        
+    
     <!-- wp:spacer {"height":"30px"} -->
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
-        
-        
-    <!-- wp:image {"align":"center","id":426,"width":30,"height":30,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-426" width="30" height="30"/></figure>
+    
+    <!-- wp:image {"align":"center","id":62,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-62" width="50" height="50"/></figure>
     <!-- /wp:image -->
-        
-        
+    
     <!-- wp:paragraph {"align":"center"} -->
     <p class="has-text-align-center"><strong>País</strong></p>
     <!-- /wp:paragraph -->
-        
-        
+    
     <!-- wp:paragraph {"align":"center"} -->
     <p class="has-text-align-center">Venezuela</p>
     <!-- /wp:paragraph -->
-        
-        
+    
     <!-- wp:spacer {"height":"30px"} -->
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
-        
-        
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><em><strong><em><strong>RRSS</strong></em></strong></em></p>
-    <!-- /wp:paragraph -->
-        
-        
+    
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
-        
-        
+    
     <!-- wp:social-links {"openInNewTab":true,"align":"center","layout":{"type":"flex","justifyContent":"center"}} -->
-    <ul class="wp-block-social-links aligncenter">
-    <!-- wp:social-link {"url":"https://instagram.com/realdesingnagencia/","service":"instagram"} /-->
-    </ul>
-    <!-- /wp:social-links -->
-    </div>
-    <!-- /wp:group -->
-    </div>""
+    <ul class="wp-block-social-links aligncenter"><!-- wp:social-link {"url":"https://instagram.com/realdesingnagencia/","service":"instagram"} /--></ul>
+    <!-- /wp:social-links --></div>
+    <!-- /wp:group --></div>
     <!-- /wp:column --></div>
     <!-- /wp:columns --></div>
     <!-- /wp:group --></div>
