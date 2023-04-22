@@ -19,7 +19,7 @@ return array(
     <!-- wp:column {"verticalAlignment":"center","width":"","className":"skt-fse-section3-right","layout":{"type":"default"}} -->
     <div class="wp-block-column is-vertically-aligned-center skt-fse-section3-right"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|30","right":"var:preset|spacing|40","bottom":"var:preset|spacing|30","left":"var:preset|spacing|40"}}},"layout":{"type":"default"}} -->
     <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--40)"><!-- wp:heading {"textAlign":"center","style":{"color":{"text":"#0a1d2d"},"typography":{"fontSize":"40px","fontStyle":"normal","fontWeight":"700"},"spacing":{"padding":{"top":"15px","bottom":"30px"}}},"fontFamily":"poppins"} -->
-    <h2 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:15px;padding-bottom:30px;font-size:40px;font-style:normal;font-weight:700">¿Quiénes somos?</h2>
+    <h2 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:15px;padding-bottom:30px;font-size:40px;font-style:normal;font-weight:700">¿Quiénes somos nosotros?</h2>
     <!-- /wp:heading -->
     
     <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"400"},"color":{"text":"#505050"},"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|60"},"padding":{"left":"var:preset|spacing|50","right":"var:preset|spacing|30"}}},"fontFamily":"poppins"} -->
@@ -1274,17 +1274,9 @@ return array(
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
     
-    <!-- wp:image {"align":"center","id":426,"width":30,"height":30,"sizeSlug":"full","linkDestination":"none"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-426" width="30" height="30"/></figure>
+    <!-- wp:image {"align":"center","id":62,"width":50,"height":50,"sizeSlug":"full","linkDestination":"none"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-62" width="50" height="50"/></figure>
     <!-- /wp:image -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center"><strong>País</strong></p>
-    <!-- /wp:paragraph -->
-    
-    <!-- wp:paragraph {"align":"center"} -->
-    <p class="has-text-align-center">Venezuela</p>
-    <!-- /wp:paragraph -->
     
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -1312,8 +1304,8 @@ return array(
     <!-- /wp:spacer -->
     
     <!-- wp:group {"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group"><!-- wp:image {"align":"center","id":425,"width":35,"height":35,"sizeSlug":"full","linkDestination":"custom"} -->
-    <figure class="wp-block-image aligncenter size-full is-resized"><a href="https://orcid.org/0000-0002-5725-4517/"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/ORCID.png" alt="" class="wp-image-425" width="35" height="35"/></a></figure>
+    <div class="wp-block-group"><!-- wp:image {"align":"center","id":64,"width":50,"height":50,"sizeSlug":"full","linkDestination":"custom"} -->
+    <figure class="wp-block-image aligncenter size-full is-resized"><img src="http://localhost/Editorial_Visiones/wp-content/uploads/2023/04/ORCID.png" alt="" class="wp-image-64" width="50" height="50"/></figure>
     <!-- /wp:image --></div>
     <!-- /wp:group --></div>
     <!-- /wp:group --></div>
@@ -1491,47 +1483,62 @@ return array(
     <!-- /wp:column -->
     
     <!-- wp:column -->
-    <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"60px","right":"35px","bottom":"70px","left":"35px"}},"border":{"radius":"15px"},"color":{"background":"#eff5fa"}},"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px"><!-- wp:heading {"textAlign":"center","level":5,"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"40px","bottom":"5px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
+    <div class="wp-block-column">
+    <!-- wp:group {"style":{"spacing":{"padding":{"top":"60px","right":"35px","bottom":"70px","left":"35px"}},"border":{"radius":"15px"},"color":{"background":"#eff5fa"}},"layout":{"type":"constrained"}} -->
+    <div class="wp-block-group has-background" style="border-radius:15px;background-color:#eff5fa;padding-top:60px;padding-right:35px;padding-bottom:70px;padding-left:35px">
+    <!-- wp:heading {"textAlign":"center","level":5,"style":{"typography":{"fontSize":"18px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"40px","bottom":"5px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
     <h5 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:40px;padding-bottom:5px;font-size:18px;font-style:normal;font-weight:600;text-transform:capitalize">Asistente de Diseño</h5>
     <!-- /wp:heading -->
-    
+        
+        
     <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"600","textTransform":"capitalize"},"spacing":{"padding":{"top":"0px","bottom":"0px"}},"color":{"text":"#0a1d2d"}},"fontFamily":"poppins"} -->
     <h3 class="wp-block-heading has-text-align-center has-text-color has-poppins-font-family" style="color:#0a1d2d;padding-top:0px;padding-bottom:0px;font-size:24px;font-style:normal;font-weight:600;text-transform:capitalize"><em><em>Br. Whitney Rodríguez</em></em></h3>
     <!-- /wp:heading -->
-    
+        
+        
     <!-- wp:spacer {"height":"30px"} -->
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
-    
+        
+        
     <!-- wp:image {"align":"center","id":426,"width":30,"height":30,"sizeSlug":"full","linkDestination":"none"} -->
     <figure class="wp-block-image aligncenter size-full is-resized"><img src="https://editorialvisiones.com/wp-content/uploads/2023/04/venezuela.png" alt="" class="wp-image-426" width="30" height="30"/></figure>
     <!-- /wp:image -->
-    
+        
+        
     <!-- wp:paragraph {"align":"center"} -->
     <p class="has-text-align-center"><strong>País</strong></p>
     <!-- /wp:paragraph -->
-    
+        
+        
     <!-- wp:paragraph {"align":"center"} -->
     <p class="has-text-align-center">Venezuela</p>
     <!-- /wp:paragraph -->
-    
+        
+        
     <!-- wp:spacer {"height":"30px"} -->
     <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
-    
+        
+        
     <!-- wp:paragraph {"align":"center"} -->
     <p class="has-text-align-center"><em><strong><em><strong>RRSS</strong></em></strong></em></p>
     <!-- /wp:paragraph -->
-    
+        
+        
     <!-- wp:spacer {"height":"15px"} -->
     <div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
     <!-- /wp:spacer -->
-    
+        
+        
     <!-- wp:social-links {"openInNewTab":true,"align":"center","layout":{"type":"flex","justifyContent":"center"}} -->
-    <ul class="wp-block-social-links aligncenter"><!-- wp:social-link {"url":"https://instagram.com/realdesingnagencia/","service":"instagram"} /--></ul>
-    <!-- /wp:social-links --></div>
-    <!-- /wp:group --></div>""
+    <ul class="wp-block-social-links aligncenter">
+    <!-- wp:social-link {"url":"https://instagram.com/realdesingnagencia/","service":"instagram"} /-->
+    </ul>
+    <!-- /wp:social-links -->
+    </div>
+    <!-- /wp:group -->
+    </div>""
     <!-- /wp:column --></div>
     <!-- /wp:columns --></div>
     <!-- /wp:group --></div>

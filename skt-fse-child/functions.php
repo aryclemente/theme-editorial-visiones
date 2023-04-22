@@ -94,10 +94,11 @@ function skt_fse_register_block_patterns_ev() {
 	}
 
 	$block_patterns = array(
+		'skt-fse-single-programa',
+		'skt-fse-sobre-nosotros',
 		'skt-fse-lista-eventos',
 		'skt-fse-lista-programas',
 		'skt-fse-single-evento',
-		'skt-fse-sobre-nosotros',
 		'skt-fse-header',
 		'skt-fse-hero-banner',
 		'skt-fse-with-archive-title',
